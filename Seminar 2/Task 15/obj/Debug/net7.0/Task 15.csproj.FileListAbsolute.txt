@@ -1,0 +1,14 @@
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 15\bin\Debug\net7.0\Task 15.exe
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 15\bin\Debug\net7.0\Task 15.deps.json
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 15\bin\Debug\net7.0\Task 15.runtimeconfig.json
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 15\bin\Debug\net7.0\Task 15.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 15\bin\Debug\net7.0\Task 15.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 15\obj\Debug\net7.0\Task 15.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 15\obj\Debug\net7.0\Task 15.AssemblyInfoInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 15\obj\Debug\net7.0\Task 15.AssemblyInfo.cs
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 15\obj\Debug\net7.0\Task 15.csproj.CoreCompileInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 15\obj\Debug\net7.0\Task 15.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 15\obj\Debug\net7.0\refint\Task 15.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 15\obj\Debug\net7.0\Task 15.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 15\obj\Debug\net7.0\Task 15.genruntimeconfig.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 15\obj\Debug\net7.0\ref\Task 15.dll

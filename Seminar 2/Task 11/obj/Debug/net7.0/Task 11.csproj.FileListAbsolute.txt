@@ -1,0 +1,14 @@
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 11\obj\Debug\net7.0\Task 11.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 11\obj\Debug\net7.0\Task 11.AssemblyInfoInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 11\obj\Debug\net7.0\Task 11.AssemblyInfo.cs
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 11\obj\Debug\net7.0\Task 11.csproj.CoreCompileInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 11\bin\Debug\net7.0\Task 11.exe
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 11\bin\Debug\net7.0\Task 11.deps.json
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 11\bin\Debug\net7.0\Task 11.runtimeconfig.json
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 11\bin\Debug\net7.0\Task 11.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 11\bin\Debug\net7.0\Task 11.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 11\obj\Debug\net7.0\Task 11.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 11\obj\Debug\net7.0\refint\Task 11.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 11\obj\Debug\net7.0\Task 11.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 11\obj\Debug\net7.0\Task 11.genruntimeconfig.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 2\Task 11\obj\Debug\net7.0\ref\Task 11.dll
