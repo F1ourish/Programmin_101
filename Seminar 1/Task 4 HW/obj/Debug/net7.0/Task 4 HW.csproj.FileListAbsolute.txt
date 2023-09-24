@@ -1,0 +1,14 @@
+D:\GB Courses\Programming for beginers\C#\Seminar 1\Task 4 HW\bin\Debug\net7.0\Task 4 HW.exe
+D:\GB Courses\Programming for beginers\C#\Seminar 1\Task 4 HW\bin\Debug\net7.0\Task 4 HW.deps.json
+D:\GB Courses\Programming for beginers\C#\Seminar 1\Task 4 HW\bin\Debug\net7.0\Task 4 HW.runtimeconfig.json
+D:\GB Courses\Programming for beginers\C#\Seminar 1\Task 4 HW\bin\Debug\net7.0\Task 4 HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 1\Task 4 HW\bin\Debug\net7.0\Task 4 HW.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 1\Task 4 HW\obj\Debug\net7.0\Task 4 HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB Courses\Programming for beginers\C#\Seminar 1\Task 4 HW\obj\Debug\net7.0\Task 4 HW.AssemblyInfoInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 1\Task 4 HW\obj\Debug\net7.0\Task 4 HW.AssemblyInfo.cs
+D:\GB Courses\Programming for beginers\C#\Seminar 1\Task 4 HW\obj\Debug\net7.0\Task 4 HW.csproj.CoreCompileInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 1\Task 4 HW\obj\Debug\net7.0\Task 4 HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 1\Task 4 HW\obj\Debug\net7.0\refint\Task 4 HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 1\Task 4 HW\obj\Debug\net7.0\Task 4 HW.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 1\Task 4 HW\obj\Debug\net7.0\Task 4 HW.genruntimeconfig.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 1\Task 4 HW\obj\Debug\net7.0\ref\Task 4 HW.dll
