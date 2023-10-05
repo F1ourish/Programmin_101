@@ -1,0 +1,14 @@
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 29 HW\obj\Debug\net7.0\Task 29 HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 29 HW\obj\Debug\net7.0\Task 29 HW.AssemblyInfoInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 29 HW\obj\Debug\net7.0\Task 29 HW.AssemblyInfo.cs
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 29 HW\obj\Debug\net7.0\Task 29 HW.csproj.CoreCompileInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 29 HW\bin\Debug\net7.0\Task 29 HW.exe
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 29 HW\bin\Debug\net7.0\Task 29 HW.deps.json
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 29 HW\bin\Debug\net7.0\Task 29 HW.runtimeconfig.json
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 29 HW\bin\Debug\net7.0\Task 29 HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 29 HW\bin\Debug\net7.0\Task 29 HW.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 29 HW\obj\Debug\net7.0\Task 29 HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 29 HW\obj\Debug\net7.0\refint\Task 29 HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 29 HW\obj\Debug\net7.0\Task 29 HW.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 29 HW\obj\Debug\net7.0\Task 29 HW.genruntimeconfig.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 29 HW\obj\Debug\net7.0\ref\Task 29 HW.dll

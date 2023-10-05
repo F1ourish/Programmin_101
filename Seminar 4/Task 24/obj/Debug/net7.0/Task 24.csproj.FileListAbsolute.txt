@@ -1,0 +1,14 @@
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 24\bin\Debug\net7.0\Task 24.exe
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 24\bin\Debug\net7.0\Task 24.deps.json
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 24\bin\Debug\net7.0\Task 24.runtimeconfig.json
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 24\bin\Debug\net7.0\Task 24.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 24\bin\Debug\net7.0\Task 24.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 24\obj\Debug\net7.0\Task 24.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 24\obj\Debug\net7.0\Task 24.AssemblyInfoInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 24\obj\Debug\net7.0\Task 24.AssemblyInfo.cs
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 24\obj\Debug\net7.0\Task 24.csproj.CoreCompileInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 24\obj\Debug\net7.0\Task 24.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 24\obj\Debug\net7.0\refint\Task 24.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 24\obj\Debug\net7.0\Task 24.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 24\obj\Debug\net7.0\Task 24.genruntimeconfig.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 4\Task 24\obj\Debug\net7.0\ref\Task 24.dll

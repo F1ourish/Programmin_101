@@ -1,0 +1,14 @@
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 22\obj\Debug\net7.0\Task 22.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 22\obj\Debug\net7.0\Task 22.AssemblyInfoInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 22\obj\Debug\net7.0\Task 22.AssemblyInfo.cs
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 22\obj\Debug\net7.0\Task 22.csproj.CoreCompileInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 22\bin\Debug\net7.0\Task 22.exe
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 22\bin\Debug\net7.0\Task 22.deps.json
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 22\bin\Debug\net7.0\Task 22.runtimeconfig.json
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 22\bin\Debug\net7.0\Task 22.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 22\bin\Debug\net7.0\Task 22.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 22\obj\Debug\net7.0\Task 22.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 22\obj\Debug\net7.0\refint\Task 22.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 22\obj\Debug\net7.0\Task 22.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 22\obj\Debug\net7.0\Task 22.genruntimeconfig.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 22\obj\Debug\net7.0\ref\Task 22.dll

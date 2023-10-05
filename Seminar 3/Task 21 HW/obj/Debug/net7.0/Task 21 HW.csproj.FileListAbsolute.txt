@@ -1,0 +1,14 @@
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 21 HW\obj\Debug\net7.0\Task 21 HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 21 HW\obj\Debug\net7.0\Task 21 HW.AssemblyInfoInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 21 HW\obj\Debug\net7.0\Task 21 HW.AssemblyInfo.cs
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 21 HW\obj\Debug\net7.0\Task 21 HW.csproj.CoreCompileInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 21 HW\bin\Debug\net7.0\Task 21 HW.exe
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 21 HW\bin\Debug\net7.0\Task 21 HW.deps.json
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 21 HW\bin\Debug\net7.0\Task 21 HW.runtimeconfig.json
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 21 HW\bin\Debug\net7.0\Task 21 HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 21 HW\bin\Debug\net7.0\Task 21 HW.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 21 HW\obj\Debug\net7.0\Task 21 HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 21 HW\obj\Debug\net7.0\refint\Task 21 HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 21 HW\obj\Debug\net7.0\Task 21 HW.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 21 HW\obj\Debug\net7.0\Task 21 HW.genruntimeconfig.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 3\Task 21 HW\obj\Debug\net7.0\ref\Task 21 HW.dll
