@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GB Courses\\Programming for beginers\\C#\\Seminar 1\\Task 1\\Task 1.csproj",
+      "projectUniqueName": "d:\\GB Courses\\Programming for beginers\\C#\\Seminar 1\\Task_1\\Task 1.csproj",
       "projectName": "Task 1",
-      "projectPath": "D:\\GB Courses\\Programming for beginers\\C#\\Seminar 1\\Task 1\\Task 1.csproj",
+      "projectPath": "d:\\GB Courses\\Programming for beginers\\C#\\Seminar 1\\Task_1\\Task 1.csproj",
       "packagesPath": "C:\\Users\\gofde\\.nuget\\packages\\",
-      "outputPath": "D:\\GB Courses\\Programming for beginers\\C#\\Seminar 1\\Task 1\\obj\\",
+      "outputPath": "d:\\GB Courses\\Programming for beginers\\C#\\Seminar 1\\Task_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gofde\\AppData\\Roaming\\NuGet\\NuGet.Config"
