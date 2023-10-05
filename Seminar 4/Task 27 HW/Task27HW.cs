@@ -15,9 +15,8 @@ int DigitSum(int num)
 
     while (num > 0)
     {
-        int value = num % 10;
+        sum += num % 10;
         num = num / 10;
-        sum += value;
     }
     return sum;
 }
