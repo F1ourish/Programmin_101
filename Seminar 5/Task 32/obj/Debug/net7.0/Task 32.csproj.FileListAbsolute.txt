@@ -1,0 +1,14 @@
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task 32\obj\Debug\net7.0\Task 32.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task 32\obj\Debug\net7.0\Task 32.AssemblyInfoInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task 32\obj\Debug\net7.0\Task 32.AssemblyInfo.cs
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task 32\obj\Debug\net7.0\Task 32.csproj.CoreCompileInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task 32\bin\Debug\net7.0\Task 32.exe
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task 32\bin\Debug\net7.0\Task 32.deps.json
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task 32\bin\Debug\net7.0\Task 32.runtimeconfig.json
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task 32\bin\Debug\net7.0\Task 32.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task 32\bin\Debug\net7.0\Task 32.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task 32\obj\Debug\net7.0\Task 32.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task 32\obj\Debug\net7.0\refint\Task 32.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task 32\obj\Debug\net7.0\Task 32.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task 32\obj\Debug\net7.0\Task 32.genruntimeconfig.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task 32\obj\Debug\net7.0\ref\Task 32.dll

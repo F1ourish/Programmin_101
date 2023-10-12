@@ -1,0 +1,14 @@
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task39\bin\Debug\net7.0\Task39.exe
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task39\bin\Debug\net7.0\Task39.deps.json
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task39\bin\Debug\net7.0\Task39.runtimeconfig.json
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task39\bin\Debug\net7.0\Task39.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task39\bin\Debug\net7.0\Task39.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task39\obj\Debug\net7.0\Task39.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task39\obj\Debug\net7.0\Task39.AssemblyInfoInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task39\obj\Debug\net7.0\Task39.AssemblyInfo.cs
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task39\obj\Debug\net7.0\Task39.csproj.CoreCompileInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task39\obj\Debug\net7.0\Task39.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task39\obj\Debug\net7.0\refint\Task39.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task39\obj\Debug\net7.0\Task39.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task39\obj\Debug\net7.0\Task39.genruntimeconfig.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task39\obj\Debug\net7.0\ref\Task39.dll

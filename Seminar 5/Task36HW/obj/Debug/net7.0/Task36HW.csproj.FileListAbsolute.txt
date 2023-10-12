@@ -1,0 +1,4 @@
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task36HW\obj\Debug\net7.0\Task36HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task36HW\obj\Debug\net7.0\Task36HW.AssemblyInfoInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task36HW\obj\Debug\net7.0\Task36HW.AssemblyInfo.cs
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task36HW\obj\Debug\net7.0\Task36HW.csproj.CoreCompileInputs.cache

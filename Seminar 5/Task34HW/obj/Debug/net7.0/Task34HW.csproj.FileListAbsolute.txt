@@ -1,0 +1,14 @@
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task34HW\obj\Debug\net7.0\Task34HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task34HW\obj\Debug\net7.0\Task34HW.AssemblyInfoInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task34HW\obj\Debug\net7.0\Task34HW.AssemblyInfo.cs
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task34HW\obj\Debug\net7.0\Task34HW.csproj.CoreCompileInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task34HW\bin\Debug\net7.0\Task34HW.exe
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task34HW\bin\Debug\net7.0\Task34HW.deps.json
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task34HW\bin\Debug\net7.0\Task34HW.runtimeconfig.json
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task34HW\bin\Debug\net7.0\Task34HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task34HW\bin\Debug\net7.0\Task34HW.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task34HW\obj\Debug\net7.0\Task34HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task34HW\obj\Debug\net7.0\refint\Task34HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task34HW\obj\Debug\net7.0\Task34HW.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task34HW\obj\Debug\net7.0\Task34HW.genruntimeconfig.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 5\Task34HW\obj\Debug\net7.0\ref\Task34HW.dll
