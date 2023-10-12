@@ -1,0 +1,14 @@
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task41\obj\Debug\net7.0\Task41.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task41\obj\Debug\net7.0\Task41.AssemblyInfoInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task41\obj\Debug\net7.0\Task41.AssemblyInfo.cs
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task41\obj\Debug\net7.0\Task41.csproj.CoreCompileInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task41\bin\Debug\net7.0\Task41.exe
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task41\bin\Debug\net7.0\Task41.deps.json
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task41\bin\Debug\net7.0\Task41.runtimeconfig.json
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task41\bin\Debug\net7.0\Task41.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task41\bin\Debug\net7.0\Task41.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task41\obj\Debug\net7.0\Task41.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task41\obj\Debug\net7.0\refint\Task41.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task41\obj\Debug\net7.0\Task41.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task41\obj\Debug\net7.0\Task41.genruntimeconfig.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task41\obj\Debug\net7.0\ref\Task41.dll
