@@ -1,0 +1,14 @@
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task43HW\bin\Debug\net7.0\Task43HW.exe
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task43HW\bin\Debug\net7.0\Task43HW.deps.json
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task43HW\bin\Debug\net7.0\Task43HW.runtimeconfig.json
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task43HW\bin\Debug\net7.0\Task43HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task43HW\bin\Debug\net7.0\Task43HW.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task43HW\obj\Debug\net7.0\Task43HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task43HW\obj\Debug\net7.0\Task43HW.AssemblyInfoInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task43HW\obj\Debug\net7.0\Task43HW.AssemblyInfo.cs
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task43HW\obj\Debug\net7.0\Task43HW.csproj.CoreCompileInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task43HW\obj\Debug\net7.0\Task43HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task43HW\obj\Debug\net7.0\refint\Task43HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task43HW\obj\Debug\net7.0\Task43HW.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task43HW\obj\Debug\net7.0\Task43HW.genruntimeconfig.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 6\Task43HW\obj\Debug\net7.0\ref\Task43HW.dll
