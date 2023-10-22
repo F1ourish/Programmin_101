@@ -1,0 +1,14 @@
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\Task 57\Task 54\Task56HW\obj\Debug\net7.0\Task56HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\Task 57\Task 54\Task56HW\obj\Debug\net7.0\Task56HW.AssemblyInfoInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\Task 57\Task 54\Task56HW\obj\Debug\net7.0\Task56HW.AssemblyInfo.cs
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\Task 57\Task 54\Task56HW\obj\Debug\net7.0\Task56HW.csproj.CoreCompileInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\Task 57\Task 54\Task56HW\bin\Debug\net7.0\Task56HW.exe
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\Task 57\Task 54\Task56HW\bin\Debug\net7.0\Task56HW.deps.json
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\Task 57\Task 54\Task56HW\bin\Debug\net7.0\Task56HW.runtimeconfig.json
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\Task 57\Task 54\Task56HW\bin\Debug\net7.0\Task56HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\Task 57\Task 54\Task56HW\bin\Debug\net7.0\Task56HW.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\Task 57\Task 54\Task56HW\obj\Debug\net7.0\Task56HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\Task 57\Task 54\Task56HW\obj\Debug\net7.0\refint\Task56HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\Task 57\Task 54\Task56HW\obj\Debug\net7.0\Task56HW.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\Task 57\Task 54\Task56HW\obj\Debug\net7.0\Task56HW.genruntimeconfig.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\Task 57\Task 54\Task56HW\obj\Debug\net7.0\ref\Task56HW.dll

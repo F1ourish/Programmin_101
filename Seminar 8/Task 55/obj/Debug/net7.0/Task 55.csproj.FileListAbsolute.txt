@@ -1,0 +1,14 @@
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\bin\Debug\net7.0\Task 55.exe
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\bin\Debug\net7.0\Task 55.deps.json
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\bin\Debug\net7.0\Task 55.runtimeconfig.json
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\bin\Debug\net7.0\Task 55.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\bin\Debug\net7.0\Task 55.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\obj\Debug\net7.0\Task 55.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\obj\Debug\net7.0\Task 55.AssemblyInfoInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\obj\Debug\net7.0\Task 55.AssemblyInfo.cs
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\obj\Debug\net7.0\Task 55.csproj.CoreCompileInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\obj\Debug\net7.0\Task 55.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\obj\Debug\net7.0\refint\Task 55.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\obj\Debug\net7.0\Task 55.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\obj\Debug\net7.0\Task 55.genruntimeconfig.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 55\obj\Debug\net7.0\ref\Task 55.dll

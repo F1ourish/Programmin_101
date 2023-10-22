@@ -1,0 +1,14 @@
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 53\bin\Debug\net7.0\Task 53.exe
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 53\bin\Debug\net7.0\Task 53.deps.json
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 53\bin\Debug\net7.0\Task 53.runtimeconfig.json
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 53\bin\Debug\net7.0\Task 53.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 53\bin\Debug\net7.0\Task 53.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 53\obj\Debug\net7.0\Task 53.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 53\obj\Debug\net7.0\Task 53.AssemblyInfoInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 53\obj\Debug\net7.0\Task 53.AssemblyInfo.cs
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 53\obj\Debug\net7.0\Task 53.csproj.CoreCompileInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 53\obj\Debug\net7.0\Task 53.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 53\obj\Debug\net7.0\refint\Task 53.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 53\obj\Debug\net7.0\Task 53.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 53\obj\Debug\net7.0\Task 53.genruntimeconfig.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 8\Task 53\obj\Debug\net7.0\ref\Task 53.dll

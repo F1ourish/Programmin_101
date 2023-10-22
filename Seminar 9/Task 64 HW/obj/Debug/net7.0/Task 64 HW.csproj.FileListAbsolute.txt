@@ -1,0 +1,14 @@
+D:\GB Courses\Programming for beginers\C#\Seminar 9\Task 64 HW\bin\Debug\net7.0\Task 64 HW.exe
+D:\GB Courses\Programming for beginers\C#\Seminar 9\Task 64 HW\bin\Debug\net7.0\Task 64 HW.deps.json
+D:\GB Courses\Programming for beginers\C#\Seminar 9\Task 64 HW\bin\Debug\net7.0\Task 64 HW.runtimeconfig.json
+D:\GB Courses\Programming for beginers\C#\Seminar 9\Task 64 HW\bin\Debug\net7.0\Task 64 HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 9\Task 64 HW\bin\Debug\net7.0\Task 64 HW.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 9\Task 64 HW\obj\Debug\net7.0\Task 64 HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB Courses\Programming for beginers\C#\Seminar 9\Task 64 HW\obj\Debug\net7.0\Task 64 HW.AssemblyInfoInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 9\Task 64 HW\obj\Debug\net7.0\Task 64 HW.AssemblyInfo.cs
+D:\GB Courses\Programming for beginers\C#\Seminar 9\Task 64 HW\obj\Debug\net7.0\Task 64 HW.csproj.CoreCompileInputs.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 9\Task 64 HW\obj\Debug\net7.0\Task 64 HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 9\Task 64 HW\obj\Debug\net7.0\refint\Task 64 HW.dll
+D:\GB Courses\Programming for beginers\C#\Seminar 9\Task 64 HW\obj\Debug\net7.0\Task 64 HW.pdb
+D:\GB Courses\Programming for beginers\C#\Seminar 9\Task 64 HW\obj\Debug\net7.0\Task 64 HW.genruntimeconfig.cache
+D:\GB Courses\Programming for beginers\C#\Seminar 9\Task 64 HW\obj\Debug\net7.0\ref\Task 64 HW.dll
